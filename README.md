@@ -1,29 +1,338 @@
-<h1 align="center">Hi 👋, I'm Rausheen Hasan</h1>
-<h3 align="center">Cloud, DevOps & Security Engineer | Full Stack Developer | Data Analyst | Creative & Business Professional from India.</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [Enterprise Network Redundancy Packet Tracer](https://github.com/rausheen/Enterprise-Network-Redundancy-packet-Tracer)
+# 👋 Hi, I'm **Rausheen Hasan**
 
-- 🌱 I’m currently learning **Kubernetes, Terraform, AWS Security, Prompt Engineering**
+### ☁️ Cloud & DevOps Engineer • 🔐 Security • 💻 Full Stack Developer • 📊 Data Analytics • 🤖 AI & Prompt Engineering
 
-- 👯 I’m looking to collaborate on **Cloud, DevOps, Web Development And Data Analytics Projects**
-
-- 🤝 I’m looking for help with **Kubernetes, Terraform And Advanced Cloud Security**
-
-- 👨‍💻 All of my projects are available at [https://github.com/rausheen](https://github.com/rausheen)
-
-- 💬 Ask me about **AWS, DevOps, Networking (CCNA), Full Stack, DBMS, Data Analytics, Prompt Engineering, WordPress, UI/UX, HR, Content & Social Media**
-
-- 📫 How to reach me **rausheenhasan@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/rausheen-hasan/?isSelfProfile=true](https://www.linkedin.com/in/rausheen-hasan/?isSelfProfile=true)
-
-- ⚡ Fun fact **I can deploy a server, design its UI, and write the post announcing it 😄**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rausheen-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rausheen-hasan" height="30" width="40" /></a>
-<a href="https://instagram.com/rausheen_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rausheen_hasan" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/rausheen">
+    <img src="https://komarev.com/ghpvc/?username=rausheen&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/rausheen?tab=followers">
+    <img src="https://img.shields.io/github/followers/rausheen?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/rausheen?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-Explore-181717?style=flat-square&logo=github" alt="Repositories"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/rausheen-hasan">
+    <img src="https://img.shields.io/badge/LinkedIn-Rausheen%20Hasan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:rausheenhasan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/rausheen">
+    <img src="https://img.shields.io/badge/GitHub-rausheen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm **Rausheen Hasan**, a technology enthusiast working across **Cloud, DevOps, Cyber Security, Full Stack Development, Data Analytics and AI-driven solutions**.
+
+I enjoy building systems that combine **reliable infrastructure, scalable applications, clean user experiences and practical automation**.
+
+```text
+☁️ Cloud & DevOps
+├── AWS
+├── Docker
+├── Kubernetes
+├── Jenkins
+├── Terraform
+└── Linux
+
+💻 Full Stack Development
+├── React
+├── Next.js
+├── Node.js
+├── Express.js
+├── MongoDB
+├── PostgreSQL
+└── REST / GraphQL APIs
+
+🔐 Networking & Security
+├── CCNA / Networking
+├── Network Architecture
+├── Network Redundancy
+├── AWS Security
+└── Infrastructure Security
+
+📊 Data & AI
+├── Python
+├── Pandas
+├── Scikit-learn
+├── Data Analytics
+└── Prompt Engineering
+```
+
+---
+
+## 🎯 What I'm Currently Doing
+
+- 🔭 Building **Enterprise Network Redundancy** projects using Cisco Packet Tracer
+- 🌱 Learning **Kubernetes, Terraform, AWS Security & Prompt Engineering**
+- ☁️ Exploring **Cloud Infrastructure & DevOps automation**
+- 💻 Building **Full Stack applications using MERN**
+- 📊 Working with **Data Analytics and visualization**
+- 🤝 Open to collaborating on **Cloud, DevOps, Web Development & Data Analytics projects**
+- 🚀 Continuously improving my **software engineering and system design skills**
+
+---
+
+## 🧠 What You Can Ask Me About
+
+**Cloud & DevOps**
+
+`AWS` `Docker` `Kubernetes` `Jenkins` `Terraform` `Linux`
+
+**Development**
+
+`React` `Next.js` `Node.js` `Express.js` `MongoDB` `PostgreSQL` `REST APIs`
+
+**Networking**
+
+`CCNA` `Cisco` `Packet Tracer` `Routing & Switching` `Network Redundancy`
+
+**Data & AI**
+
+`Python` `Pandas` `Scikit-learn` `Data Analytics` `Prompt Engineering`
+
+**Design & Business**
+
+`UI/UX` `Figma` `WordPress` `Content Writing` `Social Media`
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="45" height="45" alt="Jenkins"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" alt="Bash"/>
+</p>
+
+### 💻 Full Stack Development
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
+</p>
+
+### 🗄️ Databases & APIs
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="45" height="45" alt="GraphQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/>
+</p>
+
+### 📊 Data, AI & Programming
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
+</p>
+
+### 🎨 Design & Productivity
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45" height="45" alt="Figma"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="45" height="45" alt="Photoshop"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="45" height="45" alt="Illustrator"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Enterprise Network Redundancy
+
+Cisco Packet Tracer based enterprise networking project focused on **network redundancy, routing, switching, VLANs, OSPF, NAT and resilient network architecture**.
+
+🔗 **[View Project](https://github.com/rausheen/Enterprise-Network-Redundancy-packet-Tracer)**
+
+</td>
+
+<td width="50%">
+
+### 💻 GitHub Projects
+
+Explore my repositories covering **Full Stack Development, Cloud, DevOps, Networking, Data Analytics and experimentation**.
+
+🔗 **[View All Repositories](https://github.com/rausheen?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/rausheen">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rausheen&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" alt="Rausheen's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/rausheen">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rausheen&layout=compact&langs_count=10&hide_border=true&theme=transparent" alt="Rausheen's Top Languages"/>
+</a>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<a href="https://github.com/rausheen">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rausheen&hide_border=true&theme=transparent" alt="Rausheen's GitHub Contribution Streak"/>
+</a>
+
+</div>
+
+---
+
+# 📈 Contribution & Commit Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rausheen&bg_color=transparent&color=0e75b6&line=0e75b6&point=24292e&area=true&hide_border=true" alt="Rausheen's GitHub Activity Graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rausheen&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Profile Trophies"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Graph
+
+<div align="center">
+
+<p>
+  <img src="./github-contribution-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+</div>
+
+---
+
+# 📌 My GitHub Metrics
+
+<div align="center">
+
+| 📊 Metric | 🔗 Explore |
+|---|---|
+| 📦 Total Repositories | [View Repositories](https://github.com/rausheen?tab=repositories) |
+| ⭐ Stars Received | [View GitHub Profile](https://github.com/rausheen?tab=repositories) |
+| 👥 Followers | [View Followers](https://github.com/rausheen?tab=followers) |
+| 🔥 Contribution Streak | [View Contributions](https://github.com/rausheen) |
+| 📈 Commit Activity | [View Activity](https://github.com/rausheen) |
+| 🏆 GitHub Achievements | [View Profile](https://github.com/rausheen) |
+
+</div>
+
+---
+
+# 💼 Professional Focus
+
+```text
+Cloud Engineering       ███████████████████░░
+DevOps & Automation      ██████████████████░░░
+Full Stack Development   ███████████████████░░
+Cyber Security           ████████████████░░░░░
+Networking               █████████████████░░░░
+Data Analytics           ███████████████░░░░░░
+AI & Prompt Engineering  ████████████████░░░░░
+UI/UX                    ██████████████░░░░░░░
+```
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+`Kubernetes` • `Terraform` • `AWS Security` • `Cloud Architecture` • `DevOps` • `Prompt Engineering` • `System Design`
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **collaboration, interesting technical projects, networking opportunities and learning together.**
+
+<br>
+
+<a href="https://linkedin.com/in/rausheen-hasan">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rausheenhasan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/rausheen_hasan">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rausheen">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *"I can deploy a server, design its UI, and write the post announcing it."* 😄
+
+<br>
+
+**Thanks for visiting my profile! ⭐**
+
+</div>
