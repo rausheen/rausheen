@@ -334,5 +334,6 @@ I'm open to **collaboration, interesting technical projects, networking opportun
 <br>
 
 **Thanks for visiting my profile! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
