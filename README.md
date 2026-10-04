@@ -245,13 +245,11 @@ Explore my repositories covering **Full Stack Development, Cloud, DevOps, Networ
 
 ---
 
-# 🐍 Contribution Graph
+📌 GitHub Profile Overview
 
 <div align="center">
 
-<p>
-  <img src="./github-contribution-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rausheen&theme=tokyonight" width="100%" alt="GitHub Profile Details"/>
 
 </div>
 
