@@ -4,6 +4,8 @@
 
 ### ☁️ Cloud & DevOps Engineer • 🔐 Security • 💻 Full Stack Developer • 📊 Data Analytics • 🤖 AI & Prompt Engineering
 
+ 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Cloud+%26+DevOps+Enthusiast;Full+Stack+Developer;Networking+%26+Security+Explorer;Data+Analytics+%26+AI;Building+Scalable+%26+Reliable+Systems" alt="Typing SVG" />
 <p>
   <a href="https://github.com/rausheen?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-Explore-181717?style=flat-square&logo=github" alt="Repositories"/>
