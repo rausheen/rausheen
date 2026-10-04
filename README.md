@@ -273,26 +273,6 @@ Explore my repositories covering **Full Stack Development, Cloud, DevOps, Networ
 
 ---
 
-# 📈 Contribution & Commit Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rausheen&bg_color=transparent&color=0e75b6&line=0e75b6&point=24292e&area=true&hide_border=true" alt="Rausheen's GitHub Activity Graph"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rausheen&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Profile Trophies"/>
-
-</div>
-
----
-
 # 📌 GitHub Profile Overview
 
 <div align="center">
