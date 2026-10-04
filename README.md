@@ -5,12 +5,6 @@
 ### ☁️ Cloud & DevOps Engineer • 🔐 Security • 💻 Full Stack Developer • 📊 Data Analytics • 🤖 AI & Prompt Engineering
 
 <p>
-  <a href="https://github.com/rausheen">
-    <img src="https://komarev.com/ghpvc/?username=rausheen&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/rausheen?tab=followers">
-    <img src="https://img.shields.io/github/followers/rausheen?label=Followers&style=flat-square&logo=github" alt="GitHub Followers"/>
-  </a>
   <a href="https://github.com/rausheen?tab=repositories">
     <img src="https://img.shields.io/badge/Public%20Repos-Explore-181717?style=flat-square&logo=github" alt="Repositories"/>
   </a>
@@ -38,40 +32,87 @@ I'm **Rausheen Hasan**, a technology enthusiast working across **Cloud, DevOps, 
 
 I enjoy building systems that combine **reliable infrastructure, scalable applications, clean user experiences and practical automation**.
 
-```text
-☁️ Cloud & DevOps
-├── AWS
-├── Docker
-├── Kubernetes
-├── Jenkins
-├── Terraform
-└── Linux
+<table>
+<tr>
+<td width="50%" valign="top">
 
-💻 Full Stack Development
-├── React
-├── Next.js
-├── Node.js
-├── Express.js
-├── MongoDB
-├── PostgreSQL
-└── REST / GraphQL APIs
+# ☁️ Cloud & DevOps
 
-🔐 Networking & Security
-├── CCNA / Networking
-├── Network Architecture
-├── Network Redundancy
-├── AWS Security
-└── Infrastructure Security
+AWS
 
-📊 Data & AI
-├── Python
-├── Pandas
-├── Scikit-learn
-├── Data Analytics
-└── Prompt Engineering
-```
+Docker
 
----
+Kubernetes
+
+Jenkins
+
+Terraform
+
+Linux
+
+Infrastructure Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+# 💻 Full Stack
+
+React.js
+
+Next.js
+
+Node.js
+
+Express.js
+
+MongoDB
+
+PostgreSQL
+
+REST APIs / GraphQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+# 🔐 Networking & Security
+
+Cisco Networking
+
+CCNA Concepts
+
+Network Architecture
+
+Redundancy & High Availability
+
+AWS Security
+
+Infrastructure Security
+
+</td>
+
+<td width="50%" valign="top">
+
+# 🤖 Data & AI
+
+Python
+
+Pandas
+
+Data Analytics
+
+Scikit-learn
+
+Prompt Engineering
+
+AI-powered Solutions
+
+</td>
+</tr>
+</table>
 
 ## 🎯 What I'm Currently Doing
 
@@ -195,6 +236,11 @@ Explore my repositories covering **Full Stack Development, Cloud, DevOps, Networ
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/rausheen?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_Explore_All_Projects-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+  </a>
+</p>
 ---
 
 # 📊 GitHub Analytics
