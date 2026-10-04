@@ -245,7 +245,7 @@ Explore my repositories covering **Full Stack Development, Cloud, DevOps, Networ
 
 ---
 
-📌 GitHub Profile Overview
+# 📌 GitHub Profile Overview
 
 <div align="center">
 
@@ -272,19 +272,71 @@ Explore my repositories covering **Full Stack Development, Cloud, DevOps, Networ
 
 ---
 
-# 💼 Professional Focus
+# 💎 My Development Focus
 
-```text
-Cloud Engineering       ███████████████████░░
-DevOps & Automation      ██████████████████░░░
-Full Stack Development   ███████████████████░░
-Cyber Security           ████████████████░░░░░
-Networking               █████████████████░░░░
-Data Analytics           ███████████████░░░░░░
-AI & Prompt Engineering  ████████████████░░░░░
-UI/UX                    ██████████████░░░░░░░
-```
+<table align="center">
+<tr>
+<td align="center" width="20%">
 
+☁️
+
+Cloud
+
+AWS
+Infrastructure
+Security
+
+</td>
+
+<td align="center" width="20%">
+
+⚙️
+
+DevOps
+
+Docker
+Kubernetes
+Terraform
+
+</td>
+
+<td align="center" width="20%">
+
+💻
+
+Development
+
+React
+Node.js
+MERN
+
+</td>
+
+<td align="center" width="20%">
+
+🔐
+
+Security
+
+Networking
+Cisco
+Infrastructure
+
+</td>
+
+<td align="center" width="20%">
+
+🤖
+
+AI & Data
+
+Python
+Analytics
+AI
+
+</td>
+</tr>
+</table>
 ---
 
 # 🌱 Currently Learning
